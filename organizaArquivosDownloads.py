@@ -1,7 +1,7 @@
 from pathlib import Path
 import shutil
 
-pasta = Path("C:/Users/Franc/Downloads")
+pasta = Path("C:/Users/{usuario}/Downloads")
 
 categorias = {
     ".png": "Imagens",
